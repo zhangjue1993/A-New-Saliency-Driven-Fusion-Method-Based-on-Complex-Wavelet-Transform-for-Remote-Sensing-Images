@@ -6,3 +6,4 @@ Libao Zhang and Jue Zhang, "A New Saliency-Driven Fusion Method Based on Complex
 The algorithm displayed here consists of three parts: Fuzzy C means, Slaiency analysis based on FCM and spectral dissimilarity, and the fusion framework based on complex wavelet tranform. 
 
 Wavelet Toolbox is needed. 
+DT-CWT software used in this fusion algorithm is from VPS Naidu, MSDF Lab.
